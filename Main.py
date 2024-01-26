@@ -5,7 +5,7 @@ import os
 
 # ************* TO USE THIS PROGRAM 
 # must be on macOS
-# run in terminal, also must install dependencies in the pipenv or locally
+# run in terminal, also must install dependencies in pipenv or globally on your machine
 #
 def terminalPrompt():
     person = input("Enter the contact you want to text: ")
